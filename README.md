@@ -14,7 +14,7 @@ To get the frontend running locally
 ### Information
 
 - This application is written in ES6 using React, Redux, Redux-Thunk, Sass, React-Bootstrap
-- THe user can choose to display more or less items by clicking the button at the bottom
+- The user can choose to display more or less items by clicking the button at the bottom
 - I chose to use React-Bootstrap for its responsive layout and browser compatibility, but it could also be implemented without third party libraries, by using flexbox and CSS grid.
 
 
